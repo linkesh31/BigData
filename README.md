@@ -12,7 +12,6 @@ Welcome to the **Big Data Programming Project** repository! This project focuses
 - 📊 **Dashboard Code**: Visualize key insights with interactive charts.
 
 ## **Features** 🛠️
-```bash
 - **Detailed Exploratory Data Analysis (EDA)** to understand trends in prices, discounts, and sales.
 - **Predictive Models** to forecast product demand and improve decision-making.
 - **Product Segmentation** using clustering for targeted marketing.
